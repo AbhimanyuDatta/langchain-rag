@@ -10,3 +10,6 @@ langchain_milvus
 langchain-openai
 pymilvus
 python-docx
+langchain-huggingface
+langgraph
+chromadb
